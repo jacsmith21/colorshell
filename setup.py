@@ -8,7 +8,7 @@ setup(
     author='Jacob Smith',
     author_email='jacob.smith@unb.ca',
     url='http://github.com/jacsmith21/colorshell',
-    download_url = 'http://github.com/jacsmith21/colorshell/dist/colorshell-0.1.tar.gz',
+    download_url = 'https://github.com/jacsmith21/colorshell/archive/0.1.tar.gz',
     keywords = ['print', 'shell', 'IDLE', 'color', 'colour'],
     classifiers = [],
 )
