@@ -1,6 +1,6 @@
 # colorshell
 
-A simple package to enable printing in color in IDLE.
+A simple package to enable printing in color in IDLE. Works for python 3.
 
 ### Installation
 
